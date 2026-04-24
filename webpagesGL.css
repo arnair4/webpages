@@ -1,0 +1,34 @@
+body {
+  background-color: #f4f4fb;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+p {
+  font-family: Times, serif;
+  font-size: 16px;
+  color: #DECAFF;
+}
+
+.table-border {
+  border: 1px solid #DECAFF;
+  border-collapse: collapse;
+}
+
+.table-border th,
+.table-border td {
+  border: 1px solid #DECAFF;
+  padding: 8px;
+}
+
+#photo-resize {
+  max-width: 250px;
+  max-height: 300px;
+  display: block;
+  margin-bottom: 16px;
+}
+
+a {
+  color: #3b4f9b;
+}
